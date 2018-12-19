@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 
 public class guessingRandomNumber {
 	public static void main(String[] args) {
@@ -12,4 +12,3 @@ public class guessingRandomNumber {
 		System.out.println("Hello, " + name + "!");
 	}
 }
-
