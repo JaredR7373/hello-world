@@ -1,3 +1,3 @@
-print("Added from the desktop")
+name = input("Enter your name: ")
 
-print("Added form macbook")
+print("Hello", name)
