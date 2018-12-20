@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - guessingRandomNumbers",
+            "request": "launch",
+            "mainClass": "guessingRandomNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - guessingRandomNumber",
+            "request": "launch",
+            "mainClass": "guessingRandomNumber"
+        }
+    ]
+}

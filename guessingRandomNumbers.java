@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class guessingRandomNumber {
+public class guessingRandomNumbers {
 	public static void main(String[] args) {
 		String name;
 
@@ -8,6 +8,8 @@ public class guessingRandomNumber {
 
 		System.out.print("Enter your name: ");
 		name = keyboard.nextLine();
+
+		keyboard.close();
 
 		System.out.println("Hello, " + name + "!");
 	}
